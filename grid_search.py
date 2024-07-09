@@ -51,10 +51,10 @@ class Run():
         param_log_file = os.path.join(param_log_dir, self.config['model_name'] +'_'+ 'param.txt')
         logger = self.getFileLogger(param_log_file)  
         
-        # train_param = {
-        #     'lr': [self.config['lr']] * 10,
-        # }
-        train_param = {'lr': [self.config['lr']]}
+        train_param = {
+            'lr': [self.config['lr']] * 10,
+        }
+        # train_param = {'lr': [self.config['lr']]}
         print(train_param)
         param = train_param
         best_param = []
