@@ -1,0 +1,2 @@
+model_name,auc,spauc,f1,metric,f1_real,f1_fake,recall,recall_real,recall_fake,precision,precision_real,precision_fake,acc,acc_real,acc_fake
+mdfend,0.873 ,0.779 ,0.810 ,0.810 ,0.901 ,0.717 ,0.776 ,0.902 ,0.624 ,0.841 ,0.847 ,0.804 ,0.850 ,0.873 ,0.813 

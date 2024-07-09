@@ -1,0 +1,2 @@
+model_name,auc,spauc,f1,metric,f1_real,f1_fake,recall,recall_real,recall_fake,precision,precision_real,precision_fake,acc,acc_real,acc_fake
+bert,0.879,0.766,0.801,0.801,0.884,0.718,0.809,0.870,0.747,0.795,0.898,0.691,0.836,0.898,0.691

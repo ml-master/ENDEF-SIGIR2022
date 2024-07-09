@@ -1,0 +1,45 @@
+2024-06-28 21:16:16,226 - root - INFO - start training......
+2024-06-29 12:26:05,815 - root - INFO - start training......
+2024-06-29 12:28:36,708 - root - INFO - start training......
+2024-06-29 12:43:37,825 - root - INFO - start testing......
+2024-06-29 12:43:37,825 - root - INFO - test score: {'auc': 0.8584776132414085, 'spauc': 0.7355679031530593, 'metric': 0.7740446512114328, 'f1_real': 0.9015459723352319, 'f1_fake': 0.6465433300876338, 'recall': 0.749440946941127, 'recall_real': 0.9464692482915718, 'recall_fake': 0.5524126455906821, 'precision': 0.8200183319839631, 'precision_real': 0.8606939409632315, 'precision_fake': 0.7793427230046949, 'acc': 0.8459906661009758}.
+2024-06-29 12:43:37,825 - root - INFO - lr: 0.0001, aug_prob: 0.1, avg test score: 0.7740446512114328.
+
+
+2024-06-29 12:43:37,826 - root - INFO - best model path:./param_model/bigru_endef/parameter_bigruendef.pkl
+2024-06-29 12:43:37,826 - root - INFO - best param lr: 0.0001
+2024-06-29 12:43:37,826 - root - INFO - best metric:{'metric': 0.7740446512114328}
+2024-06-29 12:43:37,826 - root - INFO - --------------------------------------
+
+2024-06-29 12:45:52,277 - root - INFO - start testing......
+2024-06-29 12:45:52,278 - root - INFO - test score: {'auc': 0.8584776132414085, 'spauc': 0.7355679031530593, 'metric': 0.7740446512114328, 'f1_real': 0.9015459723352319, 'f1_fake': 0.6465433300876338, 'recall': 0.749440946941127, 'recall_real': 0.9464692482915718, 'recall_fake': 0.5524126455906821, 'precision': 0.8200183319839631, 'precision_real': 0.8606939409632315, 'precision_fake': 0.7793427230046949, 'acc': 0.8459906661009758}.
+2024-06-29 12:45:52,278 - root - INFO - lr: 0.0001, aug_prob: 0.1, avg test score: 0.7740446512114328.
+
+
+2024-06-29 12:45:52,279 - root - INFO - best model path:./param_model/bigru_endef/parameter_bigruendef.pkl
+2024-06-29 12:45:52,279 - root - INFO - best param lr: 0.0001
+2024-06-29 12:45:52,279 - root - INFO - best metric:{'metric': 0.7740446512114328}
+2024-06-29 12:45:52,279 - root - INFO - --------------------------------------
+
+2024-06-29 20:36:54,721 - root - INFO - start training......
+2024-06-29 20:52:32,919 - root - INFO - start testing......
+2024-06-29 20:52:32,920 - root - INFO - test score: {'auc': 0.860457932345503, 'spauc': 0.7609214747240319, 'metric': 0.7986341233508826, 'f1_real': 0.8993759750390016, 'f1_fake': 0.6978922716627636, 'recall': 0.7797639051547092, 'recall_real': 0.9373983739837398, 'recall_fake': 0.6221294363256785, 'precision': 0.8294922538730635, 'precision_real': 0.8643178410794603, 'precision_fake': 0.7946666666666666, 'acc': 0.8490345231129316}.
+2024-06-29 20:52:32,920 - root - INFO - lr: 0.0001, aug_prob: 0.1, avg test score: 0.7986341233508826.
+
+
+2024-06-29 20:52:32,922 - root - INFO - best model path:./param_model/bigru_endef/parameter_bigruendef.pkl
+2024-06-29 20:52:32,922 - root - INFO - best param lr: 0.0001
+2024-06-29 20:52:32,922 - root - INFO - best metric:{'metric': 0.7986341233508826}
+2024-06-29 20:52:32,922 - root - INFO - --------------------------------------
+
+2024-06-29 22:48:56,926 - root - INFO - start training......
+2024-06-29 23:04:41,338 - root - INFO - start testing......
+2024-06-29 23:04:41,339 - root - INFO - test score: {'auc': 0.860457932345503, 'spauc': 0.7609214747240319, 'f1': 0.7986341233508826, 'metric': 0.7986341233508826, 'f1_real': 0.8993759750390016, 'f1_fake': 0.6978922716627636, 'recall': 0.7797639051547092, 'recall_real': 0.9373983739837398, 'recall_fake': 0.6221294363256785, 'precision': 0.8294922538730635, 'precision_real': 0.8643178410794603, 'precision_fake': 0.7946666666666666, 'acc': 0.8490345231129316, 'acc_real': 0.8643178410794603, 'acc_fake': 0.7946666666666666}.
+2024-06-29 23:04:41,339 - root - INFO - lr: 0.0001, aug_prob: 0.1, avg test score: 0.7986341233508826.
+
+
+2024-06-29 23:04:41,340 - root - INFO - best model path:./param_model/bigru_endef/parameter_bigruendef.pkl
+2024-06-29 23:04:41,340 - root - INFO - best param lr: 0.0001
+2024-06-29 23:04:41,340 - root - INFO - best metric:{'metric': 0.7986341233508826}
+2024-06-29 23:04:41,340 - root - INFO - --------------------------------------
+

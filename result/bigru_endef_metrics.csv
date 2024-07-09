@@ -1,0 +1,2 @@
+model_name,auc,spauc,f1,metric,f1_real,f1_fake,recall,recall_real,recall_fake,precision,precision_real,precision_fake,acc,acc_real,acc_fake
+bigru_endef,0.860,0.761,0.799,0.799,0.899,0.698,0.780,0.937,0.622,0.829,0.864,0.795,0.849,0.864,0.795

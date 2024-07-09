@@ -1,0 +1,22 @@
+2024-06-29 11:43:52,138 - root - INFO - start training......
+2024-06-29 12:11:27,141 - root - INFO - start testing......
+2024-06-29 12:11:27,141 - root - INFO - test score: {'auc': 0.8770741816031746, 'spauc': 0.7602420415480653, 'metric': 0.7926626354854426, 'f1_real': 0.9019171992220062, 'f1_fake': 0.683408071748879, 'recall': 0.7791015543570132, 'recall_real': 0.9242596810933941, 'recall_fake': 0.6339434276206323, 'precision': 0.8109372723798747, 'precision_real': 0.8806294085729789, 'precision_fake': 0.7412451361867705, 'acc': 0.8502333474756045}.
+2024-06-29 12:11:27,141 - root - INFO - lr: 0.0001, aug_prob: 0.1, avg test score: 0.7926626354854426.
+
+
+2024-06-29 12:11:27,143 - root - INFO - best model path:./param_model/bert/parameter_bert.pkl
+2024-06-29 12:11:27,143 - root - INFO - best param lr: 0.0001
+2024-06-29 12:11:27,143 - root - INFO - best metric:{'metric': 0.7926626354854426}
+2024-06-29 12:11:27,143 - root - INFO - --------------------------------------
+
+2024-06-29 22:49:14,986 - root - INFO - start training......
+2024-06-29 23:06:27,384 - root - INFO - start testing......
+2024-06-29 23:06:27,384 - root - INFO - test score: {'auc': 0.8794303851180474, 'spauc': 0.7657721879932786, 'f1': 0.8010433613935569, 'metric': 0.8010433613935569, 'f1_real': 0.8839322593969434, 'f1_fake': 0.7181544633901704, 'recall': 0.8086545479233498, 'recall_real': 0.8699186991869918, 'recall_fake': 0.7473903966597077, 'precision': 0.7947621965254207, 'precision_real': 0.8984047019311503, 'precision_fake': 0.6911196911196911, 'acc': 0.8355763604447045, 'acc_real': 0.8984047019311503, 'acc_fake': 0.6911196911196911}.
+2024-06-29 23:06:27,385 - root - INFO - lr: 0.0001, aug_prob: 0.1, avg test score: 0.8010433613935569.
+
+
+2024-06-29 23:06:27,386 - root - INFO - best model path:./param_model/bert/parameter_bert.pkl
+2024-06-29 23:06:27,386 - root - INFO - best param lr: 0.0001
+2024-06-29 23:06:27,386 - root - INFO - best metric:{'metric': 0.8010433613935569}
+2024-06-29 23:06:27,386 - root - INFO - --------------------------------------
+
